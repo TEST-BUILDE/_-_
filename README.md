@@ -1,7 +1,5 @@
-  
-build 
-
-on:
+  build 
+  on:
   push:
     branches: [ "main" ]
   pull_request:
