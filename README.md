@@ -1,4 +1,4 @@
-  build 
+  build _/
   on:
   push:
     branches: [ "main" ]
